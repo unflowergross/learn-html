@@ -1,0 +1,6 @@
+.html and .html both is static web name,there is no diff;
+.shtml and .shtm is no diff,but both conclude ssi demands;
+ 
+css can import by <style> </style> or <link href="">  or put in html tags;
+div control by id or class or use style direct.if id is the only once,class is to many tags;
+
